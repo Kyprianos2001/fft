@@ -1,5 +1,5 @@
 # fft
-# Image Processing Code for Power Spectral Density (PSD) Analysis
+# Image Processing Code for Power Spectral Density (PSD) Analysis to estimate a pore size
 
 This code processes an image to compute the Power Spectral Density (PSD) using Fourier Transform. It performs the following steps:
 
